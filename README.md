@@ -314,7 +314,7 @@ git push origin feature-name
 
 # 📬 Connect With Me
 
-## 💼 Harsh Nilay Singh
+## 💼 Harsh Nilay
 
 Developer • Creator • Tech Enthusiast
 
