@@ -1,4 +1,4 @@
-# 🌐 Harsh Nilay Singh — Developer Portfolio
+# 🌐 Harsh Nilay — Developer Portfolio
 
 Welcome to my personal developer portfolio website — a modern, responsive, and interactive platform built to showcase my skills, projects, achievements, and journey as a software developer.
 
